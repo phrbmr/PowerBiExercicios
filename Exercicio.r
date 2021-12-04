@@ -2,8 +2,6 @@
 
 # Exercícios
 
-# Defininfo a pasta de trabalho
-
 # Carregando o dataset
 notas <- read.csv("Notas.csv", fileEncoding = "windows-1252")
 
